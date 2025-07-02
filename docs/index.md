@@ -1,3 +1,4 @@
+updated at 03:01 PM - July,02,2025
 # Digital Asset Management – Admin Guide
 
 _Chào mừng bạn!_ Đây là tài liệu nội bộ dành cho quản trị viên hệ thống DAM.
