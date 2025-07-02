@@ -1,15 +1,24 @@
-# Hướng dẫn sử dụng hệ thống MT of Kieu
+# Digital Asset Management – Admin Guide
 
-Chào mừng bạn đến với tài liệu nội bộ.
+_Chào mừng bạn!_ Đây là tài liệu nội bộ dành cho quản trị viên hệ thống DAM.
 
-## Tính năng chính
+## Nội dung
 
-- Quản lý người dùng
-- Quản lý tài sản kỹ thuật số (ảnh, video, tài liệu)
-- Cấp quyền truy cập
+1. [Yêu cầu hệ thống](#yeu-cau-he-thong)
+2. [Quản lý người dùng](#quan-ly-nguoi-dung)
+3. [Phân quyền truy cập](#phan-quyen-truy-cap)
+4. [Sao lưu & khôi phục](#sao-luu-khoi-phuc)
 
-## Cách đăng nhập
+---
 
-1. Truy cập [https://dam.example.com](https://dam.example.com)
-2. Nhập xuankieu.truong@testing.com và mật khẩu testing.com
-3. Nhấn **Đăng nhập**
+## Yêu cầu hệ thống
+
+| Thành phần | Khuyến nghị |
+|------------|-------------|
+| OS         | Windows 10+, macOS 12+ |
+| Browser    | Chrome / Edge / Firefox (latest) |
+| Băng thông | ≥ 10 Mbps ổn định |
+
+## Quản lý người dùng
+
+### Thêm tài khoản
