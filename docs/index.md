@@ -1,25 +1,44 @@
-updated at 03:01 PM - July,02,2025
-# Digital Asset Management – Admin Guide
+# My Markdown & GitHub Journey 🚀
 
-_Chào mừng bạn!_ Đây là tài liệu nội bộ dành cho quản trị viên hệ thống DAM.
+📅 Created: 03‑07‑2025  
+🛠️ Last updated: 04‑07‑2025  
+🔖 Version: v1.1
 
-## Nội dung
-
-1. [Yêu cầu hệ thống](#yeu-cau-he-thong)
-2. [Quản lý người dùng](#quan-ly-nguoi-dung)
-3. [Phân quyền truy cập](#phan-quyen-truy-cap)
-4. [Sao lưu & khôi phục](#sao-luu-khoi-phuc)
+> *"When things are a disappointment, try not to be so discouraged."*  
+> — Carol Burnett  
+> [Source](https://www.brainyquote.com/authors/carol-burnett-quotes)
 
 ---
 
-## Yêu cầu hệ thống
+## Quick Summary
 
-| Thành phần | Khuyến nghị |
-|------------|-------------|
-| OS         | Windows 10+, macOS 12+ |
-| Browser    | Chrome / Edge / Firefox (latest) |
-| Băng thông | ≥ 10 Mbps ổn định |
+| Date       | Milestone                                                        | Notes                                                      |
+|------------|------------------------------------------------------------------|------------------------------------------------------------|
+| 02‑07‑2025 | ✅ Explored **MkDocs** commands                                   | Ran`mkdocs serve`for the first time        |
+| 03‑07‑2025 | ✅ Learned basic commands **build / deploy / serve**              | Understood what each command does and its output   |
+| 04‑07‑2025 | ✅ Created a simple **site navigation**                           | Added multiple pages and configured `nav` in `mkdocs.yml`  |
+| 05‑07‑2025 | ✅ Improved **site structure and formatting**                     | Renamed TOC to “My Learning Checklist”, fixed layout & headings |
 
-## Quản lý người dùng
+---
 
-### Thêm tài khoản
+## My Learning Checklist
+
+- [x] Learn Markdown basics   
+- [x] Deploy with GitHub Pages  
+- [x] Workflow with GitHub Actions
+- [x] Customize theme and layout  
+
+---
+
+## Why I'm doing this
+
+I want to build solid documentation skills and share what I learn along the way.  
+This page will grow as I continue exploring Markdown and documentation best practices.
+
+---
+
+## 📜 Changelog
+
+- 05‑07‑2025: Improved formatting and content
+- 03‑07‑2025: First draft completed
+
