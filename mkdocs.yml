@@ -3,7 +3,7 @@ site_name: My Markdown & GitHub Journey
 nav:
   - Introduction: index.md
   - Learn Markdown:
-      - Basic: markdown-co-ban.md
+      - Basic: markdown-basics.md
   - MkDocs & GitHub:
       - Create site with MkDocs: mkdocs.md
       - Deploy with GitHub Pages: github-pages.md
