@@ -8,15 +8,28 @@
 
 ## Overview
 
-Markdown is a lightweight markup language to create formatted documents using plain text. It's widely used in technical writing, documentation, and static site generators like MkDocs.
+Markdown is a lightweight markup language to create formatted documents using plain text. 
 
-In this section, I document my learning journey with core Markdown syntax, using practical examples.
+## Basic text formatting
+---
+Below is a **quick reference table** so you can immediately see the Markdown  
+*syntax (code snippet)* side‑by‑side with the **rendered result**.
+
+| Purpose         | Markdown syntax (`code`) | Rendered            |
+|-----------------|--------------------------|----------------------|
+| Heading level 1 | `# Heading 1`            | # Heading 1          |
+| Heading level 2 | `## Heading 2`           | ## Heading 2         |
+| Heading level 3 | `### Heading 3`          | ### Heading 3        |
+| Italic          | `*italic*`               | *italic*             |
+| Bold            | `**bold**`               | **bold**             |
+| Bold + Italic   | `***bold italic***`      | ***bold italic***    |
+| Strikethrough   | `~~strikethrough~~`      | ~~strikethrough~~    |
+
 
 ---
 
-## Headings
 
-```markdown
-# Heading level 1
-## Heading level 2
-### Heading level 3
+## 📜 Changelog
+
+- 05‑07‑2025: First draft completed
+
