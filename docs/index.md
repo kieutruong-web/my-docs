@@ -1,8 +1,8 @@
 # My Markdown & GitHub Journey 🚀
 
 📅 Created: 03‑07‑2025  
-🛠️ Last updated: 04‑07‑2025  
-🔖 Version: v1.1
+🛠️ Last updated: 05‑07‑2025  
+🔖 Version: v1.2
 
 > *"When things are a disappointment, try not to be so discouraged."*  
 > — Carol Burnett  
