@@ -2,7 +2,7 @@
 
 📅 Created: 03‑07‑2025  
 🛠️ Last updated: 05‑07‑2025  
-🔖 Version: v1.1.2
+🔖 Version: v1.0.2
 
 > *"When things are a disappointment, try not to be so discouraged."*  
 > — Carol Burnett  
@@ -39,6 +39,7 @@ This page will grow as I continue exploring Markdown and documentation best prac
 
 ## 📜 Changelog
 
+- 07-07-2025: minor changes (version numbering and content)
 - 05‑07‑2025: Improved formatting and content
 - 03‑07‑2025: First draft completed
 
