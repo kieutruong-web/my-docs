@@ -2,7 +2,7 @@
 
 📅 Created: 03‑07‑2025  
 🛠️ Last updated: 05‑07‑2025  
-🔖 Version: v1.2
+🔖 Version: v1.1.2
 
 > *"When things are a disappointment, try not to be so discouraged."*  
 > — Carol Burnett  
@@ -14,8 +14,8 @@
 
 | Date       | Milestone                                                        | Notes                                                      |
 |------------|------------------------------------------------------------------|------------------------------------------------------------|
-| 02‑07‑2025 | ✅ Explored **MkDocs** commands                                   | Ran`mkdocs serve`for the first time        |
-| 03‑07‑2025 | ✅ Learned basic commands **build / deploy / serve**              | Understood what each command does and its output   |
+| 02‑07‑2025 | ✅ Explored **MkDocs** commands                                   | Ran`mkdocs serve`       |
+| 03‑07‑2025 | ✅ Learned BASIC commands **build / deploy / serve**              | Understood what each command does and its output   |
 | 04‑07‑2025 | ✅ Created a simple **site navigation**                           | Added multiple pages and configured `nav` in `mkdocs.yml`  |
 | 05‑07‑2025 | ✅ Improved **site structure and formatting**                     | Renamed TOC to “My Learning Checklist”, fixed layout & headings |
 
@@ -25,8 +25,8 @@
 
 - [x] Learn Markdown basics   
 - [x] Deploy with GitHub Pages  
-- [x] Workflow with GitHub Actions
-- [x] Customize theme and layout  
+- [] Workflow with GitHub Actions
+- [] Customize theme and layout  
 
 ---
 

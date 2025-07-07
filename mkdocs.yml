@@ -2,7 +2,7 @@ site_name: My Markdown & GitHub Journey
 
 nav:
   - Introduction: index.md
-  - Learn Markdown:
+  - Markdown:
       - Basic Part 01: markdown-basics.md
       - Basic Part 02: markdown-basics-02.md
       - Advanced: markdown-advanced.md
