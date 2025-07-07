@@ -1,4 +1,4 @@
-# About GitHub Actions
+# About MkDocs
 📅 Created: 05‑07‑2025  
 🛠️ Last updated:   
 🔖 Version: 

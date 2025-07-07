@@ -1,25 +1,18 @@
-updated at 03:01 PM - July,02,2025
-# Digital Asset Management – Admin Guide
-
-_Chào mừng bạn!_ Đây là tài liệu nội bộ dành cho quản trị viên hệ thống DAM.
-
-## Nội dung
-
-1. [Yêu cầu hệ thống](#yeu-cau-he-thong)
-2. [Quản lý người dùng](#quan-ly-nguoi-dung)
-3. [Phân quyền truy cập](#phan-quyen-truy-cap)
-4. [Sao lưu & khôi phục](#sao-luu-khoi-phuc)
+# About GitHub Pages
+📅 Created: 05‑07‑2025  
+🛠️ Last updated:   
+🔖 Version: 
 
 ---
 
-## Yêu cầu hệ thống
+## Overview
 
-| Thành phần | Khuyến nghị |
-|------------|-------------|
-| OS         | Windows 10+, macOS 12+ |
-| Browser    | Chrome / Edge / Firefox (latest) |
-| Băng thông | ≥ 10 Mbps ổn định |
+(Coming soon)
 
-## Quản lý người dùng
 
-### Thêm tài khoản
+## 📜 Changelog
+
+
+
+
+

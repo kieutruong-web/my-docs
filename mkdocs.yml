@@ -7,7 +7,7 @@ nav:
       - Basic Part 02: markdown-basics-02.md
       - Advanced: markdown-advanced.md
   - MkDocs & GitHub:
-      - Create site with MkDocs: mkdocs.md
+      - Create site with MkDocs: mkdocs-basics.md
       - Deploy with GitHub Pages: github-pages.md
       - Workflow GitHub Actions: github-actions.md
 

@@ -12,8 +12,7 @@ Markdown is a lightweight markup language to create formatted documents using pl
 
 ## Basic text formatting
 ---
-Below is a **quick reference table** so you can immediately see the Markdown  
-*syntax (code snippet)* side‑by‑side with the **rendered result**.
+Below is a **quick reference table** so you can immediately see the *Markdown syntax (code snippet)* side‑by‑side with the **rendered result**.
 
 | Purpose         | Markdown syntax (`code`) | Rendered            |
 |-----------------|--------------------------|----------------------|
